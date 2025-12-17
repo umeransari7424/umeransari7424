@@ -23,21 +23,28 @@
 
 <hr/>
 <br/>
-<a href="https://github.com/umeransari7424">  
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" alt="umeransari" />
+  <a href="https://github.com/umeransari7424">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" />
+  </a>
 </p>
-
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeransari7424&theme=radical" alt="Usman's GitHub Contribution"/>
+  <a href="https://github.com/umeransari7424">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeransari7424&theme=radical" alt="umeransari7424" />
+  </a>
 </p>
 
-<p align="center" >
-  <img alt="Usman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=umeransari7424&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
-  <img alt="Usman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=umeransari7424&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
+<p align="center">
+  <a href="https://github.com/umeransari7424">
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=umeransari7424&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+
+  <a href="https://github.com/umeransari7424">
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=umeransari7424&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
 </p>
-</a>  
+
 
 
 <!--
