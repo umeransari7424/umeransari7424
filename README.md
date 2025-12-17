@@ -25,7 +25,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/umeransari7424">
-    <img align="center" src="https://streak-stats.demolab.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub Stats" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" alt="Umer's GitHub Stats" />
   </a>
 </p>
 
