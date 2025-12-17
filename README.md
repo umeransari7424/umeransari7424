@@ -25,13 +25,14 @@
 <br/>
 <p align="center">
   <a href="https://github.com/umeransari7424">
-    <img src="https://streak-stats.demolab.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=umeransari7424&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/umeransari7424">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeransari7424&theme=radical" alt="umeransari7424" />
+    
   </a>
 </p>
 
